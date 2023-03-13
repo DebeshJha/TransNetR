@@ -6,14 +6,12 @@ TransNetR is an encoder decoder network which begins with a pre-trained ResNet50
 ## Architecture
 <img src="Architecture.jpg">
 
-## Qualitative results
-<img src="supplementary_C1.jpeg">
+## Results (Qualitative results)
+<img src="supplementry_C1.jpeg">
 
 
 ## Qualitative results
-<img src="supplementary_C6.jpeg">
-
-
+<img src="supplementry_C6.jpg">
 
 
 ## Citation
