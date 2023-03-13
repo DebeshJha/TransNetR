@@ -6,7 +6,7 @@ TransNetR is an encoder decoder network which begins with a pre-trained ResNet50
 <img src="IntroTransNetR.png">
 <em>**Figure 1: Illustration  of  different  scenarios  expected  to  arise  in  real-world  settings. The proposed work conducted both in-distribution and out-of-distribution validation process.  C1 to C6 represent the different centers data present in PolypGen dataset** width=50% height=50%</em>
 
-## Architecture
+# TransNetR 
 <p align="center">
 <img src="Architecture.jpg" width=50% height=50%>
 <em>*Figure 2: Block diagram of TransNetR along with the Residual Transformer block* </em>
