@@ -1,20 +1,22 @@
-# TransNetR: Transformer-based Residual Network for Polyp Segmentation with Multi-Center Out-of-Distribution Testing
+# TransNetR: Transformer-based Residual Network for Polyp Segmentation with Multi-Center Out-of-Distribution Testing (MIDL 2023)
 
 TransNetR is an encoder decoder network which begins with a pre-trained ResNet50 as the encoder. 
 
 ## In-distribution and Out-of-distributuion dataset
 <img src="IntroTransNetR.png">
-
+<em>**Figure 1: Illustration  of  different  scenarios  expected  to  arise  in  real-world  settings. The proposed work conducted both in-distribution and out-of-distribution validation process.  C1 to C6 represent the different centers data present in PolypGen dataset**</em>
 
 ## Architecture
 <img src="Architecture.jpg">
+<em>*Figure 2: Block diagram of TransNetR along with the Residual Transformer block*</em>
 
 ## Results (Qualitative results)
 <img src="supplementry_C1.jpeg">
-
+<em>Figure 3: </em>
 
 ## Qualitative results
 <img src="supplementry_C6.jpg">
+<em>*Figure 4:*</em>
 
 
 ## Citation
