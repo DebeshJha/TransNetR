@@ -2,6 +2,9 @@
 
 TransNetR is an encoder decoder network which begins with a pre-trained ResNet50 as the encoder. 
 
+## In-distribution and Out-of-distributuion dataset
+<img src="IntroTransNetR.png">
+
 
 ## Architecture
 <img src="Architecture.jpg">
