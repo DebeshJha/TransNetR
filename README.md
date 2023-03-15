@@ -38,7 +38,7 @@ TransNetR is an encoder decoder network which can be used for efficient biomedic
 <em>Figure 5: Center-wise  example  images  from  the  PolypGen  dataset. Here,  the  variabilityamong the dataset from different centers can be observed.  There is a differencein image resolutions and sizes, shapes, colors, textures and appearances and col-lection protocols.Figure 6:  Qualitative result when the TransNetR is trained on Kvasir-SEG and tested on(a) PolypGen (center 6 (C6)) and (b) PolypGen (center 1 (C1)).13 </em>
  </p>
    
- ## Results (Qualitative results)
+## Results (Samples of OOD (PolyGen-datasets from 6 different centers))
 <p align="center">
 <img src="polypgen-samples.jpg" width=40% height=40% alt>
   
