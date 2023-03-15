@@ -49,13 +49,12 @@ TransNetR is an encoder decoder network which begins with a pre-trained ResNet50
 ## Citation
 Please cite our paper if you find the work useful: 
 <pre>
-  @INPROCEEDINGS{9183321,
-  author={D. {Jha} and M. A. {Riegler} and D. {Johansen} and P. {Halvorsen} and H. D. {Johansen}},
+  @INPROCEEDINGS{JhaTrans2023,
+  author={D. {Jha} and N. {Tomar} and  V. {Sharma} and U. {Bagci}},
   booktitle={Proceedings of the Medical Imaging with Deep Learning}, 
-  title={ TransNetR: Transformer-based Residual Network for Polyp Segmentation with Multi-Center Out-of-Distribution Testing}, 
+  title={TransNetR: Transformer-based Residual Network for Polyp Segmentation with Multi-Center Out-of-Distribution Testing}, 
   year={2023}}
 </pre>
-
 
 
 ## Contact
