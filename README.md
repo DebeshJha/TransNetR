@@ -49,9 +49,8 @@ TransNetR is an encoder decoder network which can be used for efficient biomedic
 <p align="center">
 <img src="supplementry_C6.jpg" width=40% height=40% alt>
   
-<em>Figure 7:*Qualitative result when the TransNetR is trained on Kvasir-SEG and tested on PolypGen (center 1 (C1)) </em>
+<em>Figure 7: Qualitative result when the TransNetR is trained on Kvasir-SEG and tested on PolypGen (center 1 (C1)) </em>
  </p>
-
 
 ## Citation
 Please cite our paper if you find the work useful: 
@@ -62,7 +61,6 @@ Please cite our paper if you find the work useful:
   title={TransNetR: Transformer-based Residual Network for Polyp Segmentation with Multi-Center Out-of-Distribution Testing}, 
   year={2023}}
 </pre>
-
 
 ## Contact
 Please contact debesh.jha@northwestern.edu for any further questions. 
