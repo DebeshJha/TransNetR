@@ -1,6 +1,6 @@
 # TransNetR: Transformer-based Residual Network for Polyp Segmentation with Multi-Center Out-of-Distribution Testing (MIDL 2023)
 
-TransNetR is an encoder decoder network which begins with a pre-trained ResNet50 as the encoder. 
+TransNetR is an encoder decoder network which can be used for efficient biomedical image segmentation for both in-distribution and out-of-distribution datasets. 
 
 ## In-distribution and Out-of-distributuion dataset
 <img src="IntroTransNetR.png">
@@ -12,8 +12,6 @@ TransNetR is an encoder decoder network which begins with a pre-trained ResNet50
   
 <em>Figure 2: Block diagram of TransNetR along with the Residual Transformer block </em>
   </p>
-
-
 
 ## Results (Qualitative results)
 <p align="center">
@@ -48,7 +46,7 @@ TransNetR is an encoder decoder network which begins with a pre-trained ResNet50
 <p align="center">
 <img src="supplementry_C6.jpg" width=50% height=50% alt>
   
-<em>*Figure 7:*Qualitative result when the TransNetR is trained on Kvasir-SEG and tested on PolypGen (center 1 (C1)) </em>
+<em>Figure 7:*Qualitative result when the TransNetR is trained on Kvasir-SEG and tested on PolypGen (center 1 (C1)) </em>
  </p>
 
 
@@ -56,8 +54,7 @@ TransNetR is an encoder decoder network which begins with a pre-trained ResNet50
 Please cite our paper if you find the work useful: 
 <pre>
   @INPROCEEDINGS{JhaTrans2023,
-  author={D. {Jha} and N. {Tomar} and  V. {Sharma} and U. {Bagci}},
-  
+  author={D.{Jha} and N.{Tomar} and  V.{Sharma} and U.{Bagci}}, 
   booktitle={Proceedings of the Medical Imaging with Deep Learning}, 
   title={TransNetR: Transformer-based Residual Network for Polyp Segmentation with Multi-Center Out-of-Distribution Testing}, 
   year={2023}}
@@ -65,4 +62,4 @@ Please cite our paper if you find the work useful:
 
 
 ## Contact
-please contact debesh.jha@northwestern.edu for any further questions. 
+Please contact debesh.jha@northwestern.edu for any further questions. 
