@@ -116,7 +116,7 @@ if __name__ == "__main__":
     model.eval()
 
     """ Test dataset """
-    path = "/media/nikhil/Seagate Backup Plus Drive/ML_DATASET/Kvasir-SEG"
+    path = "/../Kvasir-SEG"
     (train_x, train_y), (test_x, test_y) = load_data(path)
 
     save_path = f"results/Kvasir-SEG"
